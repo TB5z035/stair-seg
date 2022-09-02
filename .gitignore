@@ -1,0 +1,4 @@
+data/annotations/
+data/stairs/
+*.zip
+**/.DS_Store
