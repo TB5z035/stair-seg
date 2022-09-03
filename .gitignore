@@ -1,7 +1,10 @@
 data/annotations/
 data/stairs/
+data/plydata/
+data/plydata_vis
 *.zip
 **/.DS_Store
 **/.ipynb_checkpoints
 **/__pycache__
 *.egg-info
+*.icloud
