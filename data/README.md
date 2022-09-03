@@ -1,6 +1,6 @@
 # stairs.zip
 
-URL: [Tsinghua Cloud (todo)]('https://cloud.tsinghua.edu.cn/')
+URL: [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/1fd0cc2b7ab94418a42d/)
 
 Decompress: `unzip stairs.zip`
 
