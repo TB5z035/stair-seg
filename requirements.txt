@@ -24,6 +24,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.2.0
 pipreqs==0.4.11
+plyfile==0.7.4
 prompt-toolkit==3.0.30
 psutil==5.9.1
 ptyprocess==0.7.0
@@ -35,8 +36,11 @@ pyzmq==23.2.1
 requests==2.28.1
 six==1.16.0
 stack-data==0.5.0
+-e git+ssh://git@github.com/TB5zhh/stair-seg.git@75a0311fc7d147cbda9ab3e8eb78ae9f498e3e24#egg=stairseg
 tornado==6.2
+tqdm==4.64.0
 traitlets==5.3.0
 urllib3==1.26.12
 wcwidth==0.2.5
+yapf==0.32.0
 yarg==0.1.9
